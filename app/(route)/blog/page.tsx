@@ -16,7 +16,7 @@ const BlogPage = async () => {
       <Tabs defaultValue="activity" className="w-full">
         <TabsList className="w-full max-w-[400px] mx-auto md:mx-0 flex justify-center">
           <TabsTrigger value="activity" className="w-full px-5">
-            활동후기
+            {"활동후기"}
           </TabsTrigger>
           <TabsTrigger value="article" className="w-full px-5">
             아티클
