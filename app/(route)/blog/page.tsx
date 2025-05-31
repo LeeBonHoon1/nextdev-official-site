@@ -19,7 +19,7 @@ const BlogPage = async () => {
             {"활동후기"}
           </TabsTrigger>
           <TabsTrigger value="article" className="w-full px-5">
-            아티클
+            {"아티클"}
           </TabsTrigger>
         </TabsList>
 
